@@ -50,6 +50,12 @@
     - { label: Scholar, url: "https://scholar.google.com/citations?user=peAqGPMAAAAJ" }
     - { label: LinkedIn, url: "http://linkedin.com/in/juan-ouyang-0408a0288" }
 
+- name: Judy Du
+  role: Undergraduate researcher
+  email: yujia.du@emory.edu
+  photo: du.jpg
+  status: current
+
 # Alumni
 - name: Susan Plott
   role: Research Specialist, Lead
