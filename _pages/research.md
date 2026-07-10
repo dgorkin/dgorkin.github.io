@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Mammalian development relies on a complex interplay between genetic and epigenetic factors to create trillions of highly specialized cells from the same genetic blueprint. This process is orchestrated by gene regulatory sequences encoded in DNA, which in turn are influenced by epigenetic properties including DNA methylation, DNA packaging, and modifications of DNA packaging proteins. Mammalian genomes contain hundreds of epigenetic regulators — collectively referred to as the *epigenetic machinery* — which are responsible for reading, writing, and erasing this epigenetic information. Our research seeks to understand how the epigenetic machinery works, and how its malfunction contributes to disease.
+Mammalian development relies on a complex interplay between genetic and epigenetic factors to create trillions of highly specialized cells from the same genetic blueprint. This process is orchestrated by gene regulatory sequences encoded in DNA, which in turn are influenced by epigenetic properties including DNA methylation, DNA packaging, and modifications of DNA packaging proteins. Mammalian genomes contain hundreds of epigenetic regulators — collectively referred to as the _epigenetic machinery_ — which are responsible for reading, writing, and erasing this epigenetic information. Our research seeks to understand how the epigenetic machinery works, and how its malfunction contributes to disease.
 
 ## Current directions
 
