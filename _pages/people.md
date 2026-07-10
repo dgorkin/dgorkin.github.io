@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 description: Members of the Gorkin Lab, past and present.
 nav: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Epigenome biology, gene regulation, and disease.
 nav: true
 nav_order: 1

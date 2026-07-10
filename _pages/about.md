@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <a href='https://www.emory.edu/'>Emory University</a>. Researching epigenome biology.
 

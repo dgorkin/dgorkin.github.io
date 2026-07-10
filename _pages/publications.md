@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications from the Gorkin Lab, sourced from PubMed.
 nav: true
 nav_order: 5

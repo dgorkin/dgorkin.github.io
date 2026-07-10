@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dei
+title: DEI
 permalink: /dei/
 description: Diversity, Equity, Inclusion, and Accountability.
 nav: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: opportunities
+title: Opportunities
 permalink: /opportunities/
 description: Interested in joining our team? Read on.
 nav: true
