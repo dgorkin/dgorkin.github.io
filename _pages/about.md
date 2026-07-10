@@ -23,6 +23,13 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+  /* Remove the underline al-folio draws beneath the site author's own name */
+  .bibliography li .author > em {
+    border-bottom: none !important;
+  }
+</style>
+
 How does a single genetic blueprint give rise to the trillions of highly specialized cells in a human being? To carry out this amazing feat, our cells have an array of proteins — collectively referred to as _epigenetic machinery_ — that layer epigenetic information on top of the genetic blueprint. Our lab uses genomic approaches to understand how epigenetic machinery works, and what happens when it malfunctions.
 
 We are based in the [Department of Biology](https://biology.emory.edu/) at Emory University, and are part of the [Genetics & Molecular Biology](https://biomed.emory.edu/PROGRAM_SITES/GMB/) and [BCDB](https://biomed.emory.edu/PROGRAM_SITES/BCDB/) graduate programs.
