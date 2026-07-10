@@ -1,0 +1,16 @@
+{% comment %} Default first-time visitors to dark mode. Visitors can still toggle to light/system via the navbar switch, and their choice persists
+(localStorage). This runs just after the theme's own init (which lives in gem-owned assets/js/theme.js, loaded in
+<head>
+  ), so on a visitor's very first pageview there may be a brief flash before dark applies; every later load renders dark immediately. Included from
+  each page in _pages/. If you add a new page and want the dark default there too, add: {% raw %}{% include default_dark.html %}{% endraw %} {%
+  endcomment %}
+  <script>
+    (function () {
+      var t = localStorage.getItem("theme");
+      if (t !== "dark" && t !== "light" && t !== "system") {
+        localStorage.setItem("theme", "dark");
+        if (typeof applyTheme === "function") applyTheme();
+      }
+    })();
+  </script>
+</head>

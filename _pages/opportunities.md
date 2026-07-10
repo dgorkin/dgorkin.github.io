@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+{% include default_dark.html %}
+
 ## Postdoctoral fellows
 
 Please reach out to Dr. Gorkin directly.

@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include default_dark.html %}
+
 ## A statement from Dr. Gorkin
 
 As a scientist and educator, I believe it is my responsibility to promote diversity and expand access to Science, Technology, Engineering, and Mathematics (STEM) careers. Diversity is critical to the health of our biomedical research enterprise because diverse teams are more effective at problem solving, and because maximizing access to education ensures a strong scientific workforce for the future.

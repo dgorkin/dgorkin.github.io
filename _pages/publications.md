@@ -8,6 +8,8 @@ nav_order: 5
 years: [2035, 2034, 2033, 2032, 2031, 2030, 2029, 2028, 2027, 2026, 2025, 2024, 2023, 2022, 2021]
 ---
 
+{% include default_dark.html %}
+
 <style>
   /* Remove the underline al-folio draws beneath the site author's own name */
   .bibliography li .author > em {

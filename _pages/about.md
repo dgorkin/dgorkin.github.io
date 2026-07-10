@@ -23,6 +23,8 @@ latest_posts:
   enabled: false
 ---
 
+{% include default_dark.html %}
+
 <style>
   /* Remove the underline al-folio draws beneath the site author's own name */
   .bibliography li .author > em {
