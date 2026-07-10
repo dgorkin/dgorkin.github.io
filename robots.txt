@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dgorkin.github.io/sitemap.xml
+Sitemap: https://gorkinlab.org/sitemap.xml
