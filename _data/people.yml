@@ -1,0 +1,97 @@
+# Current lab members
+- name: Dave Gorkin, PhD
+  role: Principal Investigator
+  email: david.gorkin@emory.edu
+  photo: gorkin_square.jpg
+  status: current
+  links:
+    - {label: Emory, url: "http://www.biology.emory.edu/index.cfm?faculty=559"}
+    - {label: Scholar, url: "https://scholar.google.com/citations?user=m7B4Jb4AAAAJ"}
+    - {label: PubMed, url: "https://www.ncbi.nlm.nih.gov/myncbi/1DojhRn8NkzAt/bibliography/public/"}
+    - {label: LinkedIn, url: "https://www.linkedin.com/in/david-gorkin-9a558566/"}
+    - {label: ORCID, url: "https://orcid.org/0000-0003-4944-4107"}
+
+- name: Yonina Loskove
+  role: PhD Student, GMB Program
+  email: yonina.loskove@emory.edu
+  photo: loskove.jpg
+  status: current
+
+- name: Alex Gulka
+  role: PhD Student, GMB Program
+  email: alexander.gulka@emory.edu
+  photo: gulka.jpg
+  status: current
+  links:
+    - {label: ORCID, url: "https://orcid.org/0000-0003-2926-1047"}
+
+- name: Ziben Zhou
+  role: PhD Student, BCDB Program
+  email: ziben.zhou@emory.edu
+  photo: zhou.jpg
+  status: current
+
+- name: Aranis Muniz Perez
+  role: PhD Student, Neuroscience Program
+  email: aranis.muniz.perez@emory.edu
+  photo: muniz_perez.jpg
+  status: current
+  links:
+    - {label: LinkedIn, url: "https://www.linkedin.com/in/aranismunizperez/"}
+    - {label: ORCID, url: "https://orcid.org/0000-0002-4440-3907"}
+
+- name: Juan Ouyang, PhD
+  role: Postdoctoral Fellow
+  email: juan.ouyang@emory.edu
+  photo: ouyang.jpg
+  status: current
+  links:
+    - {label: ORCID, url: "https://orcid.org/0009-0007-0311-239X"}
+    - {label: Scholar, url: "https://scholar.google.com/citations?user=peAqGPMAAAAJ"}
+    - {label: LinkedIn, url: "http://linkedin.com/in/juan-ouyang-0408a0288"}
+
+# Alumni
+- name: Susan Plott
+  role: Research Specialist, Lead
+  years: 2021–2026
+  status: alumni
+
+- name: Kihoon Alan Kang
+  role: Undergraduate researcher, Honors thesis
+  years: 2022–2025
+  status: alumni
+
+- name: Wendy Wang
+  role: Undergraduate researcher, Honors thesis
+  years: 2022–2025
+  status: alumni
+
+- name: Sona Davis
+  role: Undergraduate researcher, Honors thesis
+  years: 2021–2024
+  status: alumni
+
+- name: Devin Gee
+  role: Undergraduate researcher
+  years: 2022–2024
+  status: alumni
+
+- name: Sara Flano
+  role: Undergraduate researcher, Honors thesis
+  years: 2021–2023
+  status: alumni
+
+- name: Mokshith Mannuru
+  role: High school researcher
+  years: 2021–2023
+  status: alumni
+
+- name: Sylvie Call
+  role: Undergraduate researcher
+  years: 2021–2023
+  status: alumni
+
+- name: Jordyn Kirksey
+  role: Undergraduate researcher
+  years: 2021–2022
+  status: alumni

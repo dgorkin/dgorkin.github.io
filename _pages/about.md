@@ -1,34 +1,30 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.emory.edu/'>Emory University</a>. Researching epigenome biology.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: gorkin_square.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1510 Clifton Road NE</p>
+    <p>Rollins Research Center, Room 1071</p>
+    <p>Atlanta, GA 30322</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+How does a single genetic blueprint give rise to the trillions of highly specialized cells in a human being? To carry out this amazing feat, our cells have an array of proteins — collectively referred to as *epigenetic machinery* — that layer epigenetic information on top of the genetic blueprint. Our lab uses genomic approaches to understand how epigenetic machinery works, and what happens when it malfunctions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are based in the [Department of Human Genetics](https://genetics.emory.edu/) and [Department of Biology](https://biology.emory.edu/) at Emory University, and are part of the [Emory Integrated Genomics Core](https://cores.emory.edu/) and the [Genetics & Molecular Biology](https://biomed.emory.edu/PROGRAM_SITES/GMB/), [BCDB](https://biomed.emory.edu/PROGRAM_SITES/BCDB/), and [Neuroscience](https://biomed.emory.edu/PROGRAM_SITES/NS/) graduate programs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our laboratory is committed to creating a diverse, equitable, and inclusive environment for staff and trainees. See our [full statement]({{ '/dei/' | relative_url }}) on diversity, equity, and inclusion.
