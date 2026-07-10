@@ -315,8 +315,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  # Grouping handled manually in _pages/publications.md (per-year headings +
+  # a single "Before 2021" category), so scholar's own grouping is disabled.
+  group_by: none
 
 enable_publication_badges:
   altmetric: true

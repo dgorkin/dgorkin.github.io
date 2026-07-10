@@ -13,7 +13,7 @@ nav_order: 2
   <div class="col">
     <div class="card h-100 shadow-sm">
       {% if person.photo %}
-        <img src="{{ '/assets/img/people/' | append: person.photo | relative_url }}" class="card-img-top" alt="{{ person.name }}" style="object-fit: cover; aspect-ratio: 1/1;">
+        <img src="{{ '/assets/img/' | append: person.photo | relative_url }}" class="card-img-top" alt="{{ person.name }}" style="object-fit: cover; aspect-ratio: 1/1;">
       {% endif %}
       <div class="card-body">
         <h5 class="card-title mb-1">{{ person.name }}</h5>
