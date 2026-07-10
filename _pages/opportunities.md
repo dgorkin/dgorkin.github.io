@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Postdoctoral fellows
 
-We are actively recruiting postdoctoral fellows in epigenome biology. Interested candidates can find more information about open opportunities [here](/postdoctoral-fellowships-in-epigenome-biology/), or reach out to Dr. Gorkin directly.
+Please reach out to Dr. Gorkin directly.
 
 ---
 
