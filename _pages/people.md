@@ -21,7 +21,7 @@ nav_order: 2
         {% if person.email %}<p class="small mb-1"><i class="fa-solid fa-envelope"></i> {{ person.email }}</p>{% endif %}
         {% if person.links %}
           <p class="small mb-0">
-          {% for link in person.links %}<a href="{{ link.url }}" class="me-2">{{ link.label }}</a>{% endfor %}
+          {% for link in person.links %}<a href="{{ link.url }}">{{ link.label }}</a><br />{% endfor %}
           </p>
         {% endif %}
       </div>
